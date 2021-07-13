@@ -7,7 +7,7 @@ message=inputedmessage
 #How far up the alphabet do you want the letter to change into (e.g A will go up 13 letters in the alphabet to M)
 key=13
 #DO you want to decrypt or encrypt the message?
-mode='decrypt'
+mode='encrypt'
 #THe symbols that you can convert the message into
 SYMBOLS='QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm123456789!?,.'
 #translated will be an empty string that values can be added to later
